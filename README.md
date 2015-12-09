@@ -2,8 +2,6 @@ FrontCE
 ========================
 > **Front**end for [The **C**onference **E**ngine&trade;](http://science24.com/conferences/)
 
-Available soon...
-
 ## Author(s)
 *   Lukasz Jablonski
 
@@ -32,6 +30,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+## How to use FrontCE?
+Well... it is not yet available...
 
 ## Who is using FrontCE?
 * [Current Economic and Social Topics International Colloquium CEST<sup>ic</sup>2015](http://cest2015.uni.lodz.pl/)
