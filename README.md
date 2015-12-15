@@ -39,4 +39,4 @@ THE SOFTWARE.
 Well... it is not yet available...
 
 ## Who is using FrontCE?
-* [Current Economic and Social Topics International Colloquium CEST<sup>ic</sup>2015](http://cest2015.uni.lodz.pl/)
+* [Current Economic and Social Topics International Colloquium CEST'2015](http://cest2015.uni.lodz.pl/)
